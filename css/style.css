@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Cabin:wght@400;700&display=swap');
+
+body {
+    margin: 2%;
+    font-family:'Cabin', sans-serif;
+}
+header {
+    margin: 2%;
+    text-align: center;
+}
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 4em;
+    color: pink;
+    text-align: center;
+}
+main {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.lista-productos {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    gap:15px;
+}
+.card {
+    padding:2%;
+    display: flex;
+    flex-direction: column;
+
+}
+.card button {
+    padding:3%;
+    color: rgb(85, 84, 84);
+    background-color: rgb(255, 233, 237);
+    border-color: pink;
+    font-size: 17px;
+}
+
+img {
+    width: 280px;
+
+}
+
+.card-grid {
+    margin: 2%;
+    padding: 1%;
+    display: grid;
+}
+
+a {
+    margin: 2%;
+    padding:3%;
+    color: rgb(85, 84, 84);
+    background-color: rgb(255, 233, 237);
+    border-color: pink;
+    font-size: 17px;
+}
+footer {
+    margin-top: 5%;
+    padding: 1%;
+    background-color: pink;
+    text-align: center;
+}

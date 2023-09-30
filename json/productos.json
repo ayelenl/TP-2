@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mascara hidratante",
+        "imagen": "mascara-hidratante.jpg",
+        "descripcion": "Puede usarse como bálsamo labial. La mascarilla labial mejorará rápidamente la condición de los labios agrietados y escamosos. Aplicada por la noche, la mascarilla nutre en profundidad y repara la piel de los labios dañada, creando una capa protectora en su superficie. Por la mañana, tus labios estarán suaves y tiernos.",
+        "precio":6340,
+        "estrellas":"*****"
+    },
+    
+    {
+        "id": 2,
+        "nombre": "Labial liquido",
+        "imagen": "labial-liquido.jpg",
+        "descripcion": "Labial liquido Miss swiss de textura cremosa, incluye un suave pincel aplicador. Disponible en 3 tonos: Red, Pink y Nude",
+        "precio":3700,
+        "estrellas":"*****" 
+    },
+    
+    {
+        "id": 3,
+        "nombre": "Voluminizador labial",
+        "imagen": "voluminizador-labial.jpg",
+        "descripcion": "Suaviza y aumenta el volumen de los labios. Puede utilizarse antes del labial o solo",
+        "precio":3800,
+        "estrellas":"*****"  
+    },
+    {
+        "id": 4,
+        "nombre": "Set de Brochas",
+        "imagen": "set-brochas.jpg",
+        "descripcion": "Set de brochas para maquillaje, pelo sintetico con mango en tono rosa pastel. El set incluye 8 brochas (para ojos, base, rubor y contorno)",
+        "precio":12600,
+        "estrellas":"*****"  
+    },
+    
+    {
+        "id": 5,
+        "nombre": "Mascara de pestañas",
+        "imagen": "mascara-pestanias.jpg",
+        "descripcion": "Realza la mirada con esta mascara de pestañas de Miss Swiss. Su cepillo ergonomico logra un arqueado totalmente natural, manteniendolas curvas por mas tiempo. Disponible en color Negro",
+        "precio":5380,
+        "estrellas":"*****" 
+    },
+    
+    {
+        "id": 6,
+        "nombre": "Maletin Rose gold",
+        "imagen": "maletin.jpg",
+        "descripcion": "El maletin ideal, super practico para transportar. Incluye espejo con luz led. Medidas aprox.: Largo: 37cms. Ancho: 27cms. Alto: 15cms",
+        "precio":91900,
+        "estrellas":"*****" 
+    }
+]
