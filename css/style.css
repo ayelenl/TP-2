@@ -51,6 +51,23 @@ img {
     display: grid;
 }
 
+.puntuacion-estrellas {
+    text-align: center;
+}
+  
+.estrella-llena {
+    color: pink;
+    font-size: 35px;
+    margin-right: 4px;
+}
+  
+  
+.estrella-vacia {
+    color: lightgray;
+    font-size: 35px;
+    margin-right: 4px;
+}
+
 a {
     margin: 2%;
     padding:3%;
@@ -59,6 +76,7 @@ a {
     border-color: pink;
     font-size: 17px;
 }
+
 footer {
     margin-top: 5%;
     padding: 1%;
